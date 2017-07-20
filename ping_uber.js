@@ -149,5 +149,3 @@ function fetch(args) {
     }
   });
 }
-npm install
-node ping_uber.js
