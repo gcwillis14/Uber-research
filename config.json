@@ -1,0 +1,7 @@
+{
+  "api_key": "FILL_IN_YOURS_HERE",
+  "shapefile_path": "minneapolis_st_paul_tracts/minneapolis_st_paul_tracts",
+  "debug": true,
+  "shapefile_polygon_id": "FIPS",
+  "weeks_to_run": 1
+}
