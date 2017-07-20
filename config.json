@@ -1,6 +1,6 @@
 {
   "api_key": "LRf2flHJZjhQy5pe3bAAZXm_42QbHvazOTJaq4fh",
-  "shapefile_path": "minneapolis_st_paul_tracts/minneapolis_st_paul_tracts",
+  "shapefile_path": "Uber-research/London Boroughs/Counties_and_Unitary_Authorities_December_2015_Super_Generalised_Clipped_Boundaries_in_England_and_Wales.shp",
   "debug": true,
   "shapefile_polygon_id": "ctyua15cd",
   "weeks_to_run": 1
