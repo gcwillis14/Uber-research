@@ -17,7 +17,7 @@
     "type": "git",
     "url": "git+https://github.com/jtsmn/uber_data_spatial_durbin_model.git"
   },
-  "author": "Jacob Thebault-Spieker",
+  "author": "George Willis",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/jtsmn/uber_data_spatial_durbin_model/issues"
